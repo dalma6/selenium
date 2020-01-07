@@ -22,10 +22,3 @@ for table in tables:
             subject_data.append(row_text)
 
 assert len(subject_data) == 41, "Unexpected number of subjects!"
-
-
-
-
-
-
-
